@@ -11,7 +11,7 @@ import SwiftUI
 struct SampleAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecapsScreen()
         }
     }
 }
